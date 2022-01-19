@@ -1,1 +1,1 @@
-alkrjgbajklbvakjnlvkjnvljanekrvlnfkvajl
+print("Hello GitHub, you're a pain in the butt to set up!")
