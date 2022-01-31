@@ -13,6 +13,14 @@ print(david.display_name())
 def firstname(self):
     return self._fName
 
+@property
+def lastname(self):
+    return self._lName
+
 @firstname.setter
 def firstname(self, fName):
     self._firstname = fName
+
+@lastname.setter
+def lastname(self, lName):
+    self._lastname = lName
