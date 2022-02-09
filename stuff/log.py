@@ -5,7 +5,7 @@
 from datetime import date
 
 
-class log:
+class Log:
     def __init__(self, time, day, item):
         self.time = time
         self.date = date
